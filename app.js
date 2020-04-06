@@ -1,6 +1,6 @@
 const express = require('express'),
     app = express(),
-    port = 3000,
+    port = 5500,
     rutasProductos = require('./routes/productos.js'),
     rutasMain = require('./routes/main');
 
